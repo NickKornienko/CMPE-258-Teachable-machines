@@ -1,0 +1,54 @@
+Slightly increase his burst range and reduce falloff. (honestly prob doesn't even need this burst is fine as is, but should not go any lower, do not not dmg change)
+
+Increase auto dmg to be higher than burst, but much less range (intended as a tank burner/close range finisher). 
+
+Mag dump removed to allow for cleaner switing between auto/burst and give trigger disciplie mid-fight value. Having 3 styles means switching between styles is clunky in tight moments, and mag dump is the least healthy style.
+
+
+For dps referance vik is 1400 dps auto; 1575 burst | Andro is 1100dps | Octavtia is 1383 | lex is 1280
+
+
+Weapon:
+
+
+Burst: 150 * 6 @0.65s/burst (1384 dps) range: 130 effective 250 max (max 50% falloff)
+
+Auto: 250 @ 0.175/shot (1428 dps) range: 50 effective 150 max (max 50% falloff)
+
+Mag dump: Fully removed
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Make spring loaded a pure mobilty talent, sacrificing additional dps from his bombs.
+Tribunal upgrades his weapon to have more utility/dmg (maybe additional ability to burst, not dmg)
+Overcharged is fine as (assuming resiliance is merged back to 1 card, if not its pull strength should be reduced/not scale with terror)
+
+Talents:
+
+
+Spring loaded: Cooldown decrease by 30%, range 25% (no longer drops bombs at all)
+
+Overcharged: No change
+
+Tribunal: Hitting a full burst reveals enemies for 1s (including invis) (no longer does bonus dmg); Auto does 15% bonus dmg to shields/deployables (no longer slows)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cards:
+
+
+Terror: Keep as is 5% + 3% (17%@ level 5 is a good spot to prevent hyper mobilty; do not change)
+
+The night/latch fire (cooldown cards): Both back to 0.5s/level.
+
+Replace recoil reduction on mag dump with a 10% + 5%/level chance to not use a bullet when firing (idk not very important)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Latch:
+
+Make latching onto walls a toggle with the jump button when near a wall (prevent unintended sticking) (please for the love of god implement this)
+
+reduce latch duration 5->3s (prevent 7 buying too much time to get cooldowns back)
+
+
+
